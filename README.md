@@ -1,5 +1,8 @@
 # aspace_api_cheatsheet
 
+## Notice
+As of sometime a while back, I got a commit added that puts this same information in the API Documentation proper.  This cheatsheet should be considered deprecated: go here for one that will always be up to date with the current release! http://archivesspace.github.io/archivesspace/api/#routes-by-uri
+
 ## Summary
 A cheatsheet for [ArchivesSpace](https://github.com/archivesspace/archivesspace)'s API.
 
